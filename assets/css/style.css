@@ -213,6 +213,7 @@ header .container nav .menu-social {
 }
 .s-about .container .about-me ul li a img {
   transition: all 0.2s;
+
 }
 .s-about .container .about-me ul li a img:hover {
   transform: translateY(-12%);
@@ -221,6 +222,7 @@ header .container nav .menu-social {
 
 .s-about .container .my-picture img {
   border-radius: 4px;
+  width: 36.8rem;
 }
 
 /* Cases */
