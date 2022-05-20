@@ -44,8 +44,8 @@ header .container nav .menu-social {
 .s-hero {
   background: url(../img/avi.jpeg);
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: fixed;
+  background-repeat: no-repeat; 
+  background-position: fixed; 
 }
 
 .s-hero .container {
