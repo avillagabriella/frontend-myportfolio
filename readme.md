@@ -16,4 +16,4 @@ Projeto realizado para a beAcademy junto com a PayLivre no programa DevStart.
 
 ## Link do Projeto
 
-https://avillagabriella.github.io/-beacademy-devstart-frontend-myportfolio
+(https://avillagabriella.github.io/beacademy-devstart-frontend-myportfolio/)
