@@ -6,7 +6,7 @@
 
 Projeto realizado para a beAcademy junto com a PayLivre no programa DevStart.
 
-
+- https://avillagabriella.github.io/frontend-myportfolio/
 
 ## Autores
 
